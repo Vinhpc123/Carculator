@@ -17,3 +17,6 @@ Interface Components:
 
 Technologies Used:
 - Languages used include HTML, CSS, and JavaScript.
+  
+Ex:
+![image](https://github.com/user-attachments/assets/bda2eb49-6b4f-485d-9c3a-fb319d70bf7c)
